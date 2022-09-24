@@ -1,0 +1,11 @@
+﻿  server.c
+E:\courses\FWD ES\Projects\Payment app project\payment app\payment app\Server\server.h(3,10): warning C4464: relative include path contains '..'
+E:\courses\FWD ES\Projects\Payment app project\payment app\payment app\Terminal\terminal.h(3,10): warning C4464: relative include path contains '..'
+E:\courses\FWD ES\Projects\Payment app project\payment app\payment app\Terminal\terminal.h(15,1): warning C4820: 'ST_terminalData_t': '1' bytes padding added after data member 'transactionDate'
+E:\courses\FWD ES\Projects\Payment app project\payment app\payment app\Server\server.h(24,32): warning C4820: 'ST_transaction_t': '1' bytes padding added after data member 'cardHolderData'
+E:\courses\FWD ES\Projects\Payment app project\payment app\payment app\Server\server.c(3,10): warning C4464: relative include path contains '..'
+E:\courses\FWD ES\Projects\Payment app project\payment app\payment app\Server\server.c(59): warning C4715: 'isValidAccount': not all control paths return a value
+E:\courses\FWD ES\Projects\Payment app project\payment app\payment app\Server\server.c(47): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+E:\courses\FWD ES\Projects\Payment app project\payment app\payment app\Server\server.c(45): message : index 'index' range checked by comparison on this line
+E:\courses\FWD ES\Projects\Payment app project\payment app\payment app\Server\server.c(47): message : feeds call on this line
+  payment app.vcxproj -> E:\courses\FWD ES\Projects\Payment app project\payment app\x64\Debug\payment app.exe
